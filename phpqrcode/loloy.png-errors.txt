@@ -1,0 +1,31 @@
+2021-08-20 19:29:42: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2021-08-20 19:30:30: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2021-08-20 19:35:23: empty string!!!2021-08-20 19:41:33: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\php-QRcode\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2021-08-20 19:55:37: empty string!!!2021-08-20 19:56:12: empty string!!!2021-08-20 19:56:40: empty string!!!2021-08-20 20:02:06: empty string!!!2021-08-20 20:04:47: empty string!!!2021-08-20 20:30:54: empty string!!!
